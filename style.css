@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+#nav-container{
+    background-color: #14213D;
+    padding: 5px 20px 20px;
+}
+
+#title{
+    color: aliceblue;
+    font-size: 70px;
+    margin-bottom: -10px;
+}
+
+#author{
+    color: aliceblue;
+    font-style: italic;
+    font-size: 12px;
+    opacity: 35%;
+}
+
+#heading{
+    font-size: 55px;
+    margin-bottom: -20px;
+}
+
+#range{
+    font-size: 20px;
+}
+
+.style{
+    text-align: center;
+    border-radius: 25px;
+    border: 0;
+    background-color: #E5E5E5;
+}
+
+.guess{    
+    width: 600px;
+    height: 65px;
+    font-size: 25px;
+    display: block;
+    margin: 20px auto;
+}
+
+.enter{
+    width: 175px;
+    height: 55px;
+}
+
+#hint{
+    font-size: 20px;
+    font-weight: bold;
+}
